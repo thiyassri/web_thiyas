@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    color: #fff;
+}
+div.box {
+    width: 100px;
+    height: 50px;
+    background-color: pink;
+    border: 1px solid black;
+    border-radius:5px;
+    text-align: center;
+    padding: 25px;
+}
+
+.kotak {
+    width: 100%;
+    height: 100px;
+    background-color:  green;
+    background-image: url(../img/image.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+    border:2px dotted #fff; 
+
+}
+/* Satuan ukuran di web
+1. satuan absolute/tetap: px, pt
+2. satuan relative: %, em, vh (relatif terhadap perangkat)
+*/
+.banner {
+    width:50%;
+    height: 100px;
+    background-color: darkorange;
+    margin:10px auto; 
+}

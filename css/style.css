@@ -1,0 +1,40 @@
+/* eksternal css */
+body {
+    background-color: rgb(55, 163, 75);
+    color: #fff;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30pt;
+    color:rgb(29, 184, 127);
+    font-weight: light;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h1:hover {
+    color: #fff;
+}
+
+p:hover {
+    color: rgb(48, 215, 32);
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50pt;
+    color: aquamarine;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration:line-through;
+}
+h2:hover {
+    color: chartreuse;
+}
+
+p:hover {
+    color: blanchedalmond;
+}
